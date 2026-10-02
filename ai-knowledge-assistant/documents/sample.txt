@@ -1,0 +1,5 @@
+Artificial intelligence is transforming modern software engineering.
+
+Large language models can assist developers with code generation, documentation, debugging, and knowledge retrieval.
+
+However, production AI systems require reliable evaluation, monitoring, security controls, and appropriate handling of model uncertainty.
